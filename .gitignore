@@ -47,11 +47,24 @@ test/scss/output-test
 test/tmp
 test/version_tmp
 tmp
+<<<<<<< HEAD
 testing/_build
 test/javascript/js-tests.js
 
 pizza/
 data.json
-npm-debug.log
 foundation-docs
 vendor
+
+# vim backup files
+*~
+
+# working under git-bash (windows)
+/bower
+/bower.cmd
+/grunt
+/grunt.cmd
+/node.exe
+/npm
+/npm.cmd
+
